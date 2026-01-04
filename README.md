@@ -29,7 +29,7 @@ Traditional census methods in India suffer from three critical failures:
 ## 🏗️ System Architecture
 We utilize a 5-Layer approach to ensure data integrity from collection to analytics.
 
-*(Paste the screenshot of your Mermaid Architecture Diagram here)*
+![Flowchart](/mermaid-diagram-2026-01-04-170656.png)
 
 ### 🛠️ Tech Stack
 | Component | Technology | Description |
