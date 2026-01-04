@@ -1,5 +1,5 @@
-# 🇮🇳 CensusOne: Digital Census & Beneficiary Verification System
-> **Theme:** Hack4Delhi | **Track:** Smart Governance / Open Innovation
+# 🇮🇳 SATYA GANANA: Digital Census & Beneficiary Verification System
+> **Theme:** Civic / Gov. Tech  | **Track:** Caste Census Management Tech
 
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-PWA%20%7C%20Web-blue)
@@ -41,19 +41,3 @@ We utilize a 5-Layer approach to ensure data integrity from collection to analyt
 | **AI Engine** | Python (Flask/FastAPI) | Anomaly detection & consistency checks |
 | **Security** | JWT + AES-256 | Data encryption & Role-based access |
 
----
-
-## 🚀 Getting Started (Local Setup)
-
-To run the prototype locally, follow these steps:
-
-### Prerequisites
-* Node.js (v18+)
-* MongoDB (Local or Atlas URL)
-* Python (3.9+)
-
-### Installation
-1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/yourusername/census-one.git](https://github.com/yourusername/census-one.git)
-   cd census-one
